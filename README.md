@@ -1,23 +1,21 @@
-# ReplayMod
-This is where she makes a mod.
+# Replay Mod
+Brand New *Replay Mod*!
 
-<img src="logo.png" width="150" alt="the mod's logo" />
+<img src="logo.png" width="150" alt="Replay Mod" />
 
-*Update logo.png to change your mod's icon (please)*
+## Features
 
-## Getting started
-We recommend heading over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) for useful info on what to do next.
+- Download And Replay *Every* Attempt!
+- Easily Submit Videos To Lists!
+- Works With Labels On-Screen from Mods Such As MegaHack!
 
-## Build instructions
-For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
-```sh
-# Assuming you have the Geode CLI set up already
-geode build
-```
+---
 
-# Resources
-* [Geode SDK Documentation](https://docs.geode-sdk.org/)
-* [Geode SDK Source Code](https://github.com/geode-sdk/geode/)
-* [Geode CLI](https://github.com/geode-sdk/cli)
-* [Bindings](https://github.com/geode-sdk/bindings/)
-* [Dev Tools](https://github.com/geode-sdk/DevTools)
+# Setup
+
+1. Install [FFmpeg](https://www.ffmpeg.org/download.html)
+    - Click On Your Operating System
+    - Click One Of The Downloadable Options
+    - Continue With Install
+2. Input FFmpeg File In Settings
+3. Ready To Go!
