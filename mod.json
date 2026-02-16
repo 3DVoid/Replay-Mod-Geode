@@ -1,0 +1,17 @@
+{
+	"geode": "5.0.0-beta.2",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "3dvoid.replaymod",
+	"name": "ReplayMod",
+	"version": "v1.0.0",
+	"developer": "3DVoid",
+	"description": "A replay mod for Geometry Dash!",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
