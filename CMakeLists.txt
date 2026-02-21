@@ -8,6 +8,8 @@ else()
 endif()
 set(CMAKE_CXX_VISIBILITY_PRESET hidden)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 project(ReplayMod VERSION 1.0.0)
 
 # Add all source files inside src (recursively)

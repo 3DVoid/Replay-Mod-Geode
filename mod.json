@@ -1,5 +1,5 @@
 {
-	"geode": "5.0.0-beta.2",
+	"geode": "5.0.0-beta.3",
 	"gd": {
 		"win": "2.2081",
 		"android": "2.2082",
@@ -13,6 +13,13 @@
 	"description": "A replay mod for Geometry Dash!",
 	"links": {"source": "https://github.com/3DVoid/Replay-Mod-Geode"},
 	"tags": ["offline", "utility", "gameplay"],
+	"resources": {
+		"spritesheets": {
+			"Icons": [
+				"resources/Icons/*.png"
+			]
+		}
+	},
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
 	},
